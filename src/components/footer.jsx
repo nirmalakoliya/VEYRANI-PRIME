@@ -23,8 +23,8 @@ const Footer = () => {
           {/* Tagline */}
           <p className="text-xs sm:text-sm md:text-base 
           text-gray-600 dark:text-gray-400 max-w-md">
-            Elegant fashion designed to bring confidence, comfort, and timeless
-            style to every woman.
+            Elegant fashion designed to bring confidence comfort and timeless
+            style to every woman
           </p>
 
           {/* Divider */}
@@ -36,7 +36,7 @@ const Footer = () => {
         {/* Bottom */}
         <p className="mt-8 text-center text-xs sm:text-sm 
         text-gray-500 dark:text-gray-400">
-          © {new Date().getFullYear()} <span className="font-semibold">VEYRANI PRIME</span>. All rights reserved.
+          © {new Date().getFullYear()} <span className="font-semibold">VEYRANI PRIME</span> All rights reserved
         </p>
 
       </div>

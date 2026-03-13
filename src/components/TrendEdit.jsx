@@ -82,7 +82,7 @@ const TrendEdit = () => {
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
 
             <div className="absolute bottom-5 left-0 right-0 text-center">
-              <p className="text-white font-semibold">Click & View Collection</p>
+              <p className="text-white font-semibold">Click And View Collection</p>
             </div>
 
           </div>
@@ -104,7 +104,7 @@ const TrendEdit = () => {
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
 
             <div className="absolute bottom-5 left-0 right-0 text-center">
-              <p className="text-white font-semibold">Click & View Collection</p>
+              <p className="text-white font-semibold">Click And View Collection</p>
             </div>
 
           </div>
@@ -126,7 +126,7 @@ const TrendEdit = () => {
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
 
             <div className="absolute bottom-5 left-0 right-0 text-center">
-              <p className="text-white font-semibold">Click & View Collection</p>
+              <p className="text-white font-semibold">Click And View Collection</p>
             </div>
 
           </div>

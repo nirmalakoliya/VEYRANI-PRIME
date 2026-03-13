@@ -19,10 +19,10 @@ const RealEstateMarkets = () => {
 
           <p className="mt-5 text-sm sm:text-base md:text-lg 
           text-gray-600 dark:text-gray-300 leading-relaxed">
-            At <span className="font-semibold text-black dark:text-white">VEYRANI PRIME</span>, fashion is more than clothing — it is a way for
-            every woman to express her confidence, beauty, and individuality.
+            At <span className="font-semibold text-black dark:text-white">VEYRANI PRIME</span> fashion is more than clothing  it is a way for
+            every woman to express her confidence beauty and individuality
             Our mission is to deliver stylish and comfortable fashion that
-            empowers women to feel confident in every moment.
+            empowers women to feel confident in every moment
           </p>
 
         </div>
@@ -38,18 +38,18 @@ const RealEstateMarkets = () => {
             bg-gradient-to-r from-pink-500 to-rose-500 
             bg-clip-text text-transparent text-lg sm:text-xl">
               Nirmal
-            </span>, VEYRANI PRIME was created with a vision to build a trusted
-            women's fashion brand that blends modern trends with timeless
-            elegance. Each piece is thoughtfully designed to provide the
-            perfect combination of quality, comfort, and style.
+            </span> VEYRANI PRIME was created with a vision to build a trusted
+            womens fashion brand that blends modern trends with timeless
+            elegance Each piece is thoughtfully designed to provide the
+            perfect combination of quality comfort and style
 
           </p>
 
           <p className="mt-5 text-sm sm:text-base md:text-lg 
           text-gray-600 dark:text-gray-300 leading-relaxed">
 
-            From everyday wear to special occasions, our collections help women
-            look stylish and feel confident wherever they go.
+            From everyday wear to special occasions our collections help women
+            look stylish and feel confident wherever they go
 
           </p>
 
@@ -76,7 +76,7 @@ const RealEstateMarkets = () => {
             <p className="mt-3 text-sm sm:text-base 
             text-gray-600 dark:text-gray-400 leading-relaxed">
               Carefully selected fabrics and high attention to detail ensure
-              every outfit provides lasting comfort and durability.
+              every outfit provides lasting comfort and durability
             </p>
 
           </div>
@@ -97,7 +97,7 @@ const RealEstateMarkets = () => {
             <p className="mt-3 text-sm sm:text-base 
             text-gray-600 dark:text-gray-400 leading-relaxed">
               Our collections combine modern fashion trends with timeless
-              elegance suitable for everyday style and special moments.
+              elegance suitable for everyday style and special moments
             </p>
 
           </div>
@@ -118,7 +118,7 @@ const RealEstateMarkets = () => {
             <p className="mt-3 text-sm sm:text-base 
             text-gray-600 dark:text-gray-400 leading-relaxed">
               We focus on delivering fashion that makes our customers feel
-              confident, stylish, and happy every time they wear our products.
+              confident stylish and happy every time they wear our products
             </p>
 
           </div>
