@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 import { MdMarkEmailRead } from "react-icons/md";
 
 const Hero = () => {
@@ -6,10 +7,14 @@ const Hero = () => {
     <section className="relative w-full min-h-screen flex items-center justify-center overflow-hidden px-4">
 
       {/* Background Image */}
-      <img
+      <Image
         src="https://t4.ftcdn.net/jpg/08/74/88/31/360_F_874883136_weXp7jguYciiVvSuJn0UJfcJ4NLTKcVf.jpg"
         alt="Veyrani Prime Saree"
-        className="absolute inset-0 w-full h-full object-cover scale-105 animate-[zoomHero_20s_linear_infinite]"
+        fill
+        priority
+        quality={100}
+        sizes="100vw"
+        className="absolute inset-0 object-cover scale-105 animate-[zoomHero_20s_linear_infinite]"
       />
 
       {/* Overlay */}
